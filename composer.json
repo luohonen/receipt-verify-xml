@@ -1,6 +1,6 @@
 {
     "name": "luohonen/receipt-verify-xml",
-    "description": "The only XML receipt verifier in the whole network",
+    "description": "The only windows receipt (XML format) verifier in the whole network",
     "type": "library",
     "license": "MIT",
 	"require": {
